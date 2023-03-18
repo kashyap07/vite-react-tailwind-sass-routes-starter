@@ -10,5 +10,7 @@ Vite starter template for React with TailwindCSS, Sass, and prettier with NextJS
    `npx degit kashyap07/vite-react-tailwind-sass-routes-starter`
 
 TODO: Better readme
+
 TODO: script to create a nice numbered folder
+
 TODO: Explain why this exists
