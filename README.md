@@ -5,7 +5,7 @@ Vite starter template for React with TailwindCSS, Sass, and prettier with NextJS
 ## 3 ways to use this
 
 ### 1. Stackblitz
-Just click on this button and fork!  
+Just click this button and fork!  
 [![Open on stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/kashyap07/vite-react-tailwind-sass-routes-starter)
 
 ### 2. Use as a Github temlate
